@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#14082b"/>
+      <stop offset="100%" stop-color="#050210"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0d78c"/>
+      <stop offset="50%" stop-color="#c9a84c"/>
+      <stop offset="100%" stop-color="#9e7c24"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="url(#gold)" stroke-opacity="0.45" stroke-width="1.5"/>
+  <!-- 8-pointed Islamic star (Rub el Hizb) -->
+  <rect x="16" y="16" width="32" height="32" rx="2" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.85"/>
+  <rect x="16" y="16" width="32" height="32" rx="2" fill="none" stroke="url(#gold)" stroke-width="1.5" stroke-opacity="0.85" transform="rotate(45 32 32)"/>
+  <circle cx="32" cy="32" r="11" fill="#080316" stroke="url(#gold)" stroke-width="1.2" stroke-opacity="0.6"/>
+  <text x="32" y="37" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="700" fill="#e8cf82">نور</text>
+</svg>
+

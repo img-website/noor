@@ -1,0 +1,21 @@
+# Robots.txt for Noor (NoorSoul) — https://noor-app.com/
+
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /404.html
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://noor-app.com/sitemap.xml
+

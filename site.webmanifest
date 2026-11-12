@@ -1,0 +1,17 @@
+{
+  "name": "Noor — Islamic Spiritual Wellness App",
+  "short_name": "Noor",
+  "description": "Personalised Islamic spiritual wellness rooted in 1,400 years of classical scholarship — Abjad, Daily Wazifa, Crystal Guide, Muraqaba, Ruqyah & Alim AI.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050210",
+  "theme_color": "#c9a84c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
+

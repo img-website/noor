@@ -1,0 +1,54 @@
+# Noor (NoorSoul) — AI Islamic Spiritual Wellness App
+
+> Noor (نور) is an AI-powered Islamic spiritual wellness mobile application for iOS and Android, rooted in 1,400+ years of classical Islamic scholarship. Built strictly for Tafakkur (contemplation), Quranic remembrance, and daily devotional discipline — never divination or magic.
+
+## Primary Pages
+
+- [Home & App Download](https://noor-app.com/): Main landing page featuring the interactive live Abjad preview, 9 core spiritual modules, 12 life dimensions, pricing plans, FAQ, and iOS/Android download links.
+- [About Noor](https://noor-app.com/about.html): Philosophy, classical Islamic manuscript foundations, founder mission, and ethical boundaries.
+- [Contact & Support](https://noor-app.com/contact.html): Customer support, Murshid Connect practitioner verification applications, and institutional/mosque licensing enquiries.
+- [Privacy Policy](https://noor-app.com/privacy-policy.html): Data collection, Firebase security, Alim AI processing, RevenueCat billing, and account deletion rights.
+- [Terms of Service](https://noor-app.com/terms-of-service.html): User licence, NoorSoul+ auto-renewal terms, Murshid Connect terms, and intellectual property.
+- [Spiritual & Medical Disclaimer](https://noor-app.com/disclaimer.html): Tafakkur (not divination, not magic) and non-medical / non-fatwa scope.
+- [Cookie Policy](https://noor-app.com/cookie-policy.html): Minimal browser storage with zero third-party advertising trackers.
+
+## Core Mobile App Modules
+
+- **Abjad Profile Engine (`Hisab al-Jummal`)**: Calculates a user's Abjad total, dominant Arabic letter, classical element (Fire, Water, Air, Earth), aligned Divine Name from the 99 *Asma ul-Husna*, reduced archetype (1–9), Wafq constant, and lucky days from an Arabic or English name.
+- **Daily Wazifa & Amaliyat**: Generates personalised daily *wird* mapped to the five prayer times (Fajr, Dhuhr, Asr, Maghrib, Isha) and Hijri calendar occasions (Ramadan, Ashura, Mawlid), plus a 30-day Wazifa Tracker.
+- **Islamic Crystal Guide (`Ilm al-Jawahir`)**: Library of 40 therapeutic crystals and gemstones cited from Ibn Sina's *Al-Qanun fi al-Tibb* and Al-Biruni's *Kitab al-Jamahir*, matched by element and life dimension.
+- **Nuqush Studio (`Ilm al-Wafq`)**: Generates personalised 3×3 mathematical *Wafq* squares and Islamic geometric artwork exportable at high resolution.
+- **Muraqaba**: Guided Islamic contemplative practice (*Ihsan*) across 4 session stages (*Sukun*, *Niyyah*, *Muraqaba*, *Munajat*) and 4 depth levels (*Hudur*, *Tawajjuh*, *Fana*, *Istighraq*).
+- **Ruqyah**: Authenticated Quranic verses (Al-Fatiha, Ayat al-Kursi, Al-Falaq, An-Nas, Al-Baqarah 285–286) and Prophetic healing du'as from Sahih Bukhari and Sahih Muslim with guided timers.
+- **Compatibility Engine**: Calculates elemental and numeric harmony between two names across Romantic, Friendly, Career, City, Organisation, and Brotherly modes.
+- **Alim AI**: Scholar-grounded AI assistant personalised to the user's Abjad profile.
+- **Murshid Connect**: Element-matched 1-on-1 directory of verified Sufi Murshids, Ruqyah practitioners, Islamic life coaches, female Murshidas, and Abjad readers.
+
+## Classical Scholarly Sources
+
+- Al-Buni — *Shams al-Maarif al-Kubra* (13th century)
+- Ibn Arabi — *Al-Futuhat al-Makkiyya* (13th century)
+- Ibn Sina — *Al-Qanun fi al-Tibb* (11th century)
+- Al-Biruni — *Kitab al-Jamahir* (11th century)
+- Imam Al-Ghazali — *Ihya Ulum al-Din* (11th century)
+- Ibn Qayyim al-Jawziyyah — *Al-Wabil al-Sayyib* (14th century)
+- *Sahih al-Bukhari* & *Sahih Muslim* (9th century)
+
+## Plans & Platforms
+
+- **Platforms**: Apple App Store (iOS 16+) and Google Play (Android 12+), English & Arabic RTL support.
+- **Free Forever (£0)**: Core Abjad profile, 3 daily Amaliyat, 20 crystals, basic Wazifa tracker, Muraqaba & Ruqyah timers.
+- **NoorSoul+ Monthly (£7.99/month)** & **NoorSoul+ Annual (£59.99/year)**: Unlimited Amaliyat, full 40-crystal database, Nuqush Studio, unlimited Alim AI, AR Crystal Scanner.
+- **Institutional Plans**: Volume licensing for mosques, Islamic schools, and employers.
+
+## Ethical Boundaries
+
+- *Tafakkur · Not divination · Not magic.*
+- Does not claim to predict the unseen (*Ilm al-Ghayb*) or replace medical/clinical care.
+
+## Contact
+
+- Founder: Faisal Abdul Mateen Wasif
+- Email: wasifiah@gmail.com
+- Phone: +966 59 417 2305
+
