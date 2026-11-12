@@ -121,7 +121,7 @@
     });
     document.querySelectorAll('.qname-btn').forEach(function (btn) {
       btn.addEventListener('click', function () {
-        const sample = btn.getAttribute('data-name') || 'Faisal';
+        const sample = btn.getAttribute('data-name') || 'Yusuf';
         abjadInput.value = sample;
         updateAbjadPreview(sample);
       });

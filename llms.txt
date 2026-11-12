@@ -5,7 +5,7 @@
 ## Primary Pages
 
 - [Home & App Download](https://noor-app.com/): Main landing page featuring the interactive live Abjad preview, 9 core spiritual modules, 12 life dimensions, pricing plans, FAQ, and iOS/Android download links.
-- [About NoorSoul](https://noor-app.com/about.html): Philosophy, classical Islamic manuscript foundations, founder mission, and ethical boundaries.
+- [About NoorSoul](https://noor-app.com/about.html): Philosophy, classical Islamic manuscript foundations, platform mission, and ethical boundaries.
 - [Contact & Support](https://noor-app.com/contact.html): Customer support, Murshid Connect practitioner verification applications, and institutional/mosque licensing enquiries.
 - [Privacy Policy](https://noor-app.com/privacy-policy.html): Data collection, Firebase security, Alim AI processing, RevenueCat billing, and account deletion rights.
 - [Terms of Service](https://noor-app.com/terms-of-service.html): User licence, NoorSoul+ auto-renewal terms, Murshid Connect terms, and intellectual property.
@@ -49,6 +49,5 @@
 
 ## Contact
 
-- Founder: Faisal Abdul Mateen Wasif
 - Email: Contact@noorsoul.co.uk
 
