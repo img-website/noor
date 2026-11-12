@@ -1,11 +1,11 @@
-# Noor (NoorSoul) — AI Islamic Spiritual Wellness App
+# NoorSoul — AI Islamic Spiritual Wellness App
 
-> Noor (نور) is an AI-powered Islamic spiritual wellness mobile application for iOS and Android, rooted in 1,400+ years of classical Islamic scholarship. Built strictly for Tafakkur (contemplation), Quranic remembrance, and daily devotional discipline — never divination or magic.
+> NoorSoul (نور) is an AI-powered Islamic spiritual wellness mobile application for iOS and Android, rooted in 1,400+ years of classical Islamic scholarship. Built strictly for Tafakkur (contemplation), Quranic remembrance, and daily devotional discipline — never divination or magic.
 
 ## Primary Pages
 
 - [Home & App Download](https://noor-app.com/): Main landing page featuring the interactive live Abjad preview, 9 core spiritual modules, 12 life dimensions, pricing plans, FAQ, and iOS/Android download links.
-- [About Noor](https://noor-app.com/about.html): Philosophy, classical Islamic manuscript foundations, founder mission, and ethical boundaries.
+- [About NoorSoul](https://noor-app.com/about.html): Philosophy, classical Islamic manuscript foundations, founder mission, and ethical boundaries.
 - [Contact & Support](https://noor-app.com/contact.html): Customer support, Murshid Connect practitioner verification applications, and institutional/mosque licensing enquiries.
 - [Privacy Policy](https://noor-app.com/privacy-policy.html): Data collection, Firebase security, Alim AI processing, RevenueCat billing, and account deletion rights.
 - [Terms of Service](https://noor-app.com/terms-of-service.html): User licence, NoorSoul+ auto-renewal terms, Murshid Connect terms, and intellectual property.
@@ -44,11 +44,11 @@
 ## Ethical Boundaries
 
 - *Tafakkur · Not divination · Not magic.*
+- “NoorSoul is a tool for tafakkur — deep Islamic reflection. It is not divination, not magic, and not a substitute for scholarly guidance.”
 - Does not claim to predict the unseen (*Ilm al-Ghayb*) or replace medical/clinical care.
 
 ## Contact
 
 - Founder: Faisal Abdul Mateen Wasif
-- Email: wasifiah@gmail.com
-- Phone: +966 59 417 2305
+- Email: Contact@noorsoul.co.uk
 

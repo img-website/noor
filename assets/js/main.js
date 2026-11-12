@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Noor (NoorSoul) — Static Website Interactive Scripts
+   NoorSoul — Static Website Interactive Scripts
    Zero external dependencies · Fast & Accessible
    ========================================================================== */
 
@@ -207,9 +207,9 @@
         return;
       }
       try {
-        const list = JSON.parse(localStorage.getItem('noor_waitlist_v1') || '[]');
+        const list = JSON.parse(localStorage.getItem('noorsoul_waitlist_v1') || '[]');
         if (!list.includes(email)) list.push(email);
-        localStorage.setItem('noor_waitlist_v1', JSON.stringify(list));
+        localStorage.setItem('noorsoul_waitlist_v1', JSON.stringify(list));
       } catch (err) {
         // Ignore storage restrictions
       }
@@ -236,13 +236,13 @@
         return;
       }
 
-      const subject = encodeURIComponent('[Noor Website - ' + topic + '] Message from ' + name);
+      const subject = encodeURIComponent('[NoorSoul Website - ' + topic + '] Message from ' + name);
       const body = encodeURIComponent('Name: ' + name + '\nEmail: ' + email + '\nTopic: ' + topic + '\n\nMessage:\n' + message);
 
       contactStatus.className = 'form-status success';
       contactStatus.innerHTML =
         'Thank you, <strong>' + name.replace(/[<>&"]/g, '') + '</strong>. Your inquiry has been prepared. ' +
-        '<a href="mailto:wasifiah@gmail.com?subject=' + subject + '&body=' + body + '" style="color:#c9a84c;text-decoration:underline;font-weight:700;">Click here to send directly via your email client</a>, or email us at <strong>wasifiah@gmail.com</strong>.';
+        '<a href="mailto:Contact@noorsoul.co.uk?subject=' + subject + '&body=' + body + '" style="color:#c9a84c;text-decoration:underline;font-weight:700;">Click here to send directly via your email client</a>, or email us at <strong>Contact@noorsoul.co.uk</strong>.';
     });
   }
 })();
